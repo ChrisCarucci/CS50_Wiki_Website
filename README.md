@@ -10,3 +10,10 @@ https://user-images.githubusercontent.com/10932134/189558848-b3160aad-03ee-4efd-
 - Edit pages
 - Create a new page
 - Retrieve a random page
+
+## Languages/addons used:
+- Python
+- Html5
+- CSS3
+- Bootstrap
+- SqlLite
